@@ -6,7 +6,7 @@ A collection of Python projects from my data science coursework, covering signal
 
 ## Projects
 
-### 🫀 ECG Signal Processing & Arrhythmia Classification
+### ECG Signal Processing & Arrhythmia Classification
 Two-part project working with real ECG time-series data.
 - **Part 1** — Full signal processing pipeline: missing value interpolation, FFT-based denoising, R-peak detection via cross-correlation, and heart rate calculation
 - **Part 2** — Arrhythmia classification across 5 classes using KNN, Decision Tree, and Random Forest with GridSearchCV hyperparameter tuning
@@ -17,7 +17,7 @@ Two-part project working with real ECG time-series data.
 
 ---
 
-### 🎮 Tic Tac Toe AI
+### Tic Tac Toe AI
 Human vs. computer Tic Tac Toe with a configurable AI player. Supports random play (N=0) and a one-step lookahead strategy (N=1) that wins when possible, blocks opponent threats, and prefers center and corner positions. Includes a full test suite compatible with both `pytest` and the standard library.
 
 **Tools:** Python standard library
